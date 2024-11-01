@@ -29,4 +29,5 @@ This project is an e-commerce backend system built with Spring Boot. It includes
 
 # Screenshots #
 
-![CleanShot 2024-10-19 at 17 07 52@2x](https://github.com/user-attachments/assets/e1ca22dd-e99b-4ef1-839f-cc8f33b84f18)
+![CleanShot 2024-11-01 at 22 20 57](https://github.com/user-attachments/assets/90e1f179-04c0-4913-aad3-d8d02b864e4a)
+
