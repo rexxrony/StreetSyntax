@@ -33,12 +33,13 @@ StreetSyntax is a Spring Boot-based e-commerce platform focused on delivering a 
 ## Technologies Used
 - **Backend**: Spring Boot
 - **Database**: MySQL
-- **Security**: Spring Security
+- **Documentation**: Swagger
 - **Password Encoding**: BCryptPasswordEncoder
 
 
 
 # Screenshots #
 
-![CleanShot 2024-11-01 at 22 20 57](https://github.com/user-attachments/assets/90e1f179-04c0-4913-aad3-d8d02b864e4a)
+![CleanShot 2024-11-01 at 22 20 57](https://github.com/user-attachments/assets/4bd0b66e-1a2d-446d-931d-60f565757b4d)
+
 
