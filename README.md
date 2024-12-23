@@ -6,8 +6,8 @@
 StreetSyntax is a Spring Boot-based e-commerce platform focused on delivering a streamlined shopping experience. Users can register, log in, browse products, and manage their own shopping cart. Admin users have dedicated access for managing product data.
 
 ## Features
+![CleanShot 2024-10-19 at 17 05 39@2x](https://github.com/user-attachments/assets/5be2e1e4-fe2d-4e16-ad54-167eddd3d16d)
 
-![CleanShot 2024-10-19 at 17 05 39@2x](https://github.com/user-attachments/assets/a523cb3a-f1f8-447c-b9fd-2060c657bc49)
 
 ### 1. User Registration and Login
 - **Register**: A new user can register through the `/api/users/register` endpoint by providing a `username`, `email`, and `password`.
